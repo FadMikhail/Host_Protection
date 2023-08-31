@@ -19,6 +19,7 @@
 3. Зашифруйте созданный раздел с помощью LUKS.
 
 ![image](https://github.com/FadMikhail/Host_Protection/assets/132131230/5a8ec670-8e4c-48b0-8fde-b9892fe797e3)
+![image](https://github.com/FadMikhail/Host_Protection/assets/132131230/9a96d5bd-1c67-4f72-a9b7-b6be927d058a)
 
 
 
